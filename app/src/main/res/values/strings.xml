@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="empty_view_text">Video files not found</string>
+    <string name="duration_format">mm:ss</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="video_thumbnail_descr">Video thumbnail</string>
+</resources>
